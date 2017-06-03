@@ -1,5 +1,5 @@
 INPUT_DIR=src
-OUTPUT_DIR=output
+OUTPUT_DIR=docs
 
 all: build
 
