@@ -12,7 +12,7 @@ Preheat oven to 375 degrees.
 | Egg Whites     | 230g           | 25g     | 0g   | 0g  |
 | Pumpkin        | 246g           | 2g      | 20g  | 0g  |
 | Almond Flour   | 14g            | 3g      | 3g   | 7g  |
-| Baking Soda    | 1/4th Tbsp     |         |      |     |
+| Baking Soda    | 1/2th Tbsp     |         |      |     |
 | Total          |                | 78g     | 27g  | 9g  |
 
 Cook for 15 minutes
