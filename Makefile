@@ -11,7 +11,7 @@ build: clean
 
 publish: build
 	git checkout gh-pages
-	mv  docs/* .
+	mv -f docs/* .
 	rm -rf docs/
 	git add .
 	git commit -a -m "Updated docs"
