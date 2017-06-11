@@ -15,13 +15,34 @@ Preheat oven to 375 degrees.
 | Baking Soda    | 1/2th tbsp     |         |      |     |
 | Total          |                | 78g     | 27g  | 9g  |
 
-Cook for 15 minutes
+Cook for 15-20 minutes
 
 ## Macros Per Muffin
 
 | Protein | Carb  | Fat  |
 |---------|-------|------|
 | 6.5g    | 2.25g | .75g |
+
+# Results
+
+After mixing everything together and putting in the muffin pan, it should look like this.
+
+![](imgs/IMG_20170603_104131157_HDR.jpg)
+
+After 15 minutes, this is what mine looked like.
+
+![](imgs/IMG_20170603_105758998.jpg)
+
+Was not ready yet, so gave another 5 minutes which looked like this.
+
+![](imgs/IMG_20170603_110334951.jpg)
+
+And here they are plated
+
+![](imgs/IMG_20170603_111339563_HDR.jpg)
+![](imgs/IMG_20170603_111346320_HDR.jpg)
+
+One thing to point out is that the bottoms were very moist and this was caused by using cooking spray in the pan.  After doing this again without the spray the bottoms came out much nicer.  If the pan was not silicone, then it would probably be more firm.
 
 ## Low Carb Protein Muffins [1]
 
